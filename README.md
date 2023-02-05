@@ -1,7 +1,9 @@
 # Jeffrey R. Anthony
 
 tech entrepreneur, smart contract enthusiast, and innovator
-Director of Tech Enterprises and Associates of Maine
+
+<h3>Director of Tech Enterprises and Associates of Maine</h3>
+
 jeff@techenterprises.me
 
 
